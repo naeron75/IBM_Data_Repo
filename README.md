@@ -1,1 +1,3 @@
 # IBM_Data_Repo
+
+This is a repository used for IBM Data Science course on Coursera. In here, you will find assignements as well as training notebooks, scripts ...
